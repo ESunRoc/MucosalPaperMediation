@@ -1,0 +1,1 @@
+This repo features the R code for the paper "Cariogenic microorganisms induce oral epithelial atypia through host-microbiome high-sugar diet interactions." Also included are the R scripts for fitting the LMM and performing the OTU read comparison tests.
